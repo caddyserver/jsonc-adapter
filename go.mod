@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/caddyserver/caddy/v2 v2.7.6
-	github.com/muhammadmuzzammil1998/jsonc v0.0.0-20200303171503-1e787b591db7
+	github.com/muhammadmuzzammil1998/jsonc v1.0.0
 )
 
 require (
